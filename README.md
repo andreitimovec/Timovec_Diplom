@@ -1,1 +1,1 @@
-# Timovec_Diplom
+# timovec_diplom
